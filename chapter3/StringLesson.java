@@ -34,9 +34,9 @@ public class StringLesson {
         String sample2 = "abcd";
         String sample3 = "abcd ";
         //compile time
-        System.out.println("sample1==sample2 = "+sample1==sample2);
-        System.out.println("sample1==sample3 = "+sample1==sample3);
-        System.out.println("sample2==sample3 = "+sample2==sample3.trim());
+        System.out.println("sample1==sample2 = "+(sample1==sample2));
+        System.out.println("sample1==sample3 = "+(sample1==sample3));
+        System.out.println("sample2==sample3 = "+(sample2==sample3.trim()));
         //runtime
         System.out.println("sample1.equals(sample2) = "+sample1.equals(sample2));
         System.out.println("sample1.equals(sample3) = "+sample1.equals(sample3));
