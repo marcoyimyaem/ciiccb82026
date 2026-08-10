@@ -1,7 +1,7 @@
 package otherFolder;
 
 import chapter4.AccessModifier;
-import otherFolder.a.A;
+import otherFolder.a.Makahiya;
 
 public class SunFlower {
     public static void main(String[] args) {

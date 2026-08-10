@@ -37,6 +37,7 @@ public class LambdaLesson {
         System.out.println(tenPercent.dc(price));
         System.out.println(twentyPercent.dc(price));
         System.out.println(fiftyPercent.dc(price));
+        
     }
 }
 
